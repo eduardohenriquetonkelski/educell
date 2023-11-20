@@ -1,0 +1,70 @@
+.conditions{
+    background-color: #C6D2CB;
+}
+.conditions img{
+    max-width: 150px;    
+}
+.nav-link{
+    color: #fff;
+}
+.search-bar {
+    width: 350px; /* Ajuste o valor conforme necessário */
+}
+.previous-price {
+    text-decoration: line-through;
+    color: #999; /* Cor de texto desbotada, opcional */
+    
+}
+.card-text{
+    font-weight: 500;
+}
+
+.limit-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    max-width: 400px; /* Ajuste a largura máxima conforme necessário */
+}
+.navbar-dark .nav-link:hover {
+    color: #1900ff; /* Cor desejada ao passar o mouse */
+}
+.nav-link{
+    margin-right: -20px; /* Ajuste o valor conforme necessário */
+}
+.nav-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centralize verticalmente */
+}
+
+.navbar-dark img{
+    max-width: 150px;
+}
+footer ul {
+    
+    padding: 0;
+}
+
+footer li {
+    display:block;
+    margin-right: 20px; /* Espaço entre os itens da lista */
+}
+
+footer a {
+    text-decoration: none; /* Remove o sublinhado dos links */
+    color: #fff; /* Cor padrão dos links */
+}
+
+footer a:hover {
+    color: #007BFF; /* Cor do link ao passar o mouse (azul) */
+}
+
+footer img{
+    max-width: 40px;
+}
+
+.card img{
+    width: 150px;
+    height: 200px;
+
+}
